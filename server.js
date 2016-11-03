@@ -21,7 +21,7 @@ app.get('/ui/unnamed.png', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 'unnamed.png'));
 });
 
-app.get('/ui/wallpaper.png', function (req, res) {
+app.get('/ui/wallpaper.jpg', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 'wallpaper.png'));
 });
 
