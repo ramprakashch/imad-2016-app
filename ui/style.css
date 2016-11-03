@@ -1,7 +1,8 @@
 body {
     font-family: sans-serif;
+    background-color: black;
     background-image: url("/ui/wallpaper.png");
-    color: grey;
+    color: white;
     margin-top: 75px;
 }
 .center {
